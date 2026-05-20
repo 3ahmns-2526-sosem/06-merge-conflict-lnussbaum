@@ -1,5 +1,2 @@
-# 06-helloGH-lNuss
-
-Markdown Cheatsheet-. https://github.com/adam-p/markdowm-here/wiki/markdown-cheatsheet
-
-Hello GitHub: erstes Repository online angelegt.
+06-merge-conflict-lnussbaum
+Dieses Projekt wurde online auf GitHub bearbeitet.
